@@ -13,7 +13,7 @@ project2-git: venv
 	. venv/bin/activate; python -m pip install -r project2/git-requirements.txt
 	. venv/bin/activate; python test.py
 project2-local: venv
-	. venv/bin/activate; python -m pip install -r project2/git-requirements.txt
+	. venv/bin/activate; python -m pip install -r project2/local-requirements.txt
 	. venv/bin/activate; python test.py
 clean:
 	rm -rf venv

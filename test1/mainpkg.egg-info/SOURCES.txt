@@ -1,8 +1,0 @@
-README.md
-setup.py
-mainpkg/__init__.py
-mainpkg.egg-info/PKG-INFO
-mainpkg.egg-info/SOURCES.txt
-mainpkg.egg-info/dependency_links.txt
-mainpkg.egg-info/not-zip-safe
-mainpkg.egg-info/top_level.txt

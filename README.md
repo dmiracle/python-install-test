@@ -33,4 +33,4 @@ https://github.com/pypa/sample-namespace-packages
     │       ├── __init__.py
     │       └── setup.py
     └── setup.py
-    ```
+```

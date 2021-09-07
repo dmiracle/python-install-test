@@ -1,6 +1,6 @@
 venv:
 	python3 -m venv venv
-	. venv/bin/activate; python -m pip install -U pip wheel
+	. venv/bin/activate; python -m pip install -U pip wheel setuptools
 	(. venv/bin/activate )
 
 project1-git: venv
